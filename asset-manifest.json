@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testandgonjs/static/css/main.f702d88d.css",
+    "main.js": "/testandgonjs/static/js/main.db6a9646.js",
+    "static/js/787.c2651732.chunk.js": "/testandgonjs/static/js/787.c2651732.chunk.js",
+    "static/media/logo.png": "/testandgonjs/static/media/logo.b6b6f6edc90b317b9e19.png",
+    "index.html": "/testandgonjs/index.html",
+    "main.f702d88d.css.map": "/testandgonjs/static/css/main.f702d88d.css.map",
+    "main.db6a9646.js.map": "/testandgonjs/static/js/main.db6a9646.js.map",
+    "787.c2651732.chunk.js.map": "/testandgonjs/static/js/787.c2651732.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f702d88d.css",
+    "static/js/main.db6a9646.js"
+  ]
+}
