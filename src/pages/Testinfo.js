@@ -27,7 +27,7 @@ function Testinfo() {
        
     </div>
     <div className="mb-3 full-areas">
-    <button className="btn btn-dark full-areas"  >LOGIN</button>
+    <button className="btn btn-dark full-areas"  >Save</button>
     </div>
    
 
