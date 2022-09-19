@@ -1,0 +1,28 @@
+
+.nav-container{
+  height: 150px;
+
+}
+
+ .container{
+  height: 130px; 
+  border-bottom: 3px solid rgb(161, 159, 159);
+
+} 
+
+.navbar-logo{
+  height: 80px;
+}
+.navbar-collapse{
+  background-color: white;
+}
+
+@media screen and (max-width: 445px){
+.navbar-logo{
+  height: 40px;
+}
+
+}
+
+
+

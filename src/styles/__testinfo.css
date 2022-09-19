@@ -1,0 +1,33 @@
+.testinfo-page{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+}
+
+.testinfo-box{
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+ 
+   }
+   .testinfo-main-content{
+   width: 80%;
+   }
+.main-heading{
+
+width: 100%;
+color: red;
+margin: 30px 0;
+text-align: center;
+
+}
+.main-heading h2{
+font-weight: bolder;
+
+}
+
+
+   .full-areas{
+  width: 100%;
+  margin: 40px 0;
+   }

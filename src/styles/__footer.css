@@ -1,0 +1,28 @@
+
+.footer-box{
+    margin: 20px 0;
+}
+.footer-links{
+    text-align: center;
+}
+
+.footer-links a{
+    text-decoration: none;
+    color: rgb(158, 149, 149);
+    
+  
+}
+.footer-2nd-links span{
+    color: red;
+    margin: 0 1px;
+}
+.footer-links a:hover{
+    text-decoration: underline rgb(91, 91, 240);
+}
+
+
+@media (max-width: 575.98px) {
+    .footer-links a{
+        font-size: 12px;
+    }
+}
